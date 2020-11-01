@@ -1,0 +1,49 @@
+body{
+    background-color:#f2f6ff;
+  }
+  .form_block{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    margin-top:10px;
+    text-align:center;
+    box-shadow: -2px 2px 22px 2px #B2CECF;
+    height:450px;
+    background-color:white;
+  }
+  #register{
+    padding-top:40px;
+    padding-bottom:10px;
+    font-style: bold;
+  }
+  .logo-section{
+    background-color:#f2f6ff;
+  
+  }
+  
+  .logo{
+    height:60px;
+    padding:20px;
+  }
+  
+  .form-control{
+    width:80%;
+    border: 0;
+    box-shadow: none;
+    border-bottom:1px solid lightgrey;
+    border-radius: 0px;
+  }
+  .form-group{
+    padding-left:80px;
+  
+  }
+  .form{
+    padding-top:30px;
+  }
+  
+  .btn{
+    border-radius: 0px;
+    width:100px;
+  }
+  
